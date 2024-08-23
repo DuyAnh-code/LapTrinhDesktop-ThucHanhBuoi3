@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\DoiMauRGP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F010420A-7EFE-4EA7-AED1-1B6266105107}|..\\BaiTapThietKeForm\\BaiTapThietKeForm.csproj|d:\\code\\lap trinh desktop\\baitapbuoi3\\baitapthietkeform\\frmbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F010420A-7EFE-4EA7-AED1-1B6266105107}|..\\BaiTapThietKeForm\\BaiTapThietKeForm.csproj|d:\\code\\lap trinh desktop\\baitapbuoi3\\baitapthietkeform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F010420A-7EFE-4EA7-AED1-1B6266105107}|..\\BaiTapThietKeForm\\BaiTapThietKeForm.csproj|d:\\code\\lap trinh desktop\\baitapbuoi3\\baitapthietkeform\\frmbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F010420A-7EFE-4EA7-AED1-1B6266105107}|..\\BaiTapThietKeForm\\BaiTapThietKeForm.csproj|d:\\code\\lap trinh desktop\\baitapbuoi3\\baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F010420A-7EFE-4EA7-AED1-1B6266105107}|..\\BaiTapThietKeForm\\BaiTapThietKeForm.csproj|d:\\code\\lap trinh desktop\\baitapbuoi3\\baitapthietkeform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F010420A-7EFE-4EA7-AED1-1B6266105107}|..\\BaiTapThietKeForm\\BaiTapThietKeForm.csproj|d:\\code\\lap trinh desktop\\baitapbuoi3\\baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBai2.cs",
+              "DocumentMoniker": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmBai2.cs",
+              "RelativeDocumentMoniker": "..\\BaiTapThietKeForm\\FrmBai2.cs",
+              "ToolTip": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmBai2.cs",
+              "RelativeToolTip": "..\\BaiTapThietKeForm\\FrmBai2.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:35:36.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmBai2.cs [Design]",
+              "DocumentMoniker": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmBai2.cs",
+              "RelativeDocumentMoniker": "..\\BaiTapThietKeForm\\FrmBai2.cs",
+              "ToolTip": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmBai2.cs [Design]",
+              "RelativeToolTip": "..\\BaiTapThietKeForm\\FrmBai2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:11:29.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmChinh.cs",
+              "DocumentMoniker": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmChinh.cs",
+              "RelativeDocumentMoniker": "..\\BaiTapThietKeForm\\FrmChinh.cs",
+              "ToolTip": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmChinh.cs",
+              "RelativeToolTip": "..\\BaiTapThietKeForm\\FrmChinh.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:05:34.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBai1.cs",
+              "DocumentMoniker": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmBai1.cs",
+              "RelativeDocumentMoniker": "..\\BaiTapThietKeForm\\FrmBai1.cs",
+              "ToolTip": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmBai1.cs",
+              "RelativeToolTip": "..\\BaiTapThietKeForm\\FrmBai1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:02:08.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBai1.cs [Design]",
+              "DocumentMoniker": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmBai1.cs",
+              "RelativeDocumentMoniker": "..\\BaiTapThietKeForm\\FrmBai1.cs",
+              "ToolTip": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmBai1.cs [Design]",
+              "RelativeToolTip": "..\\BaiTapThietKeForm\\FrmBai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:00:19.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmChinh.cs [Design]",
+              "DocumentMoniker": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmChinh.cs",
+              "RelativeDocumentMoniker": "..\\BaiTapThietKeForm\\FrmChinh.cs",
+              "ToolTip": "D:\\code\\Lap trinh desktop\\BaiTapBuoi3\\BaiTapThietKeForm\\FrmChinh.cs [Design]",
+              "RelativeToolTip": "..\\BaiTapThietKeForm\\FrmChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:00:17.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
